@@ -1,0 +1,21 @@
+{
+    "name": "limily/wechat",
+    "require": {
+        "php": ">=7.1.18"
+    },
+    "require-dev": {
+        "php": ">=7.1.18"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Limily",
+            "email": "237446547@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "limily\\": "src/"
+        }
+    }
+}
